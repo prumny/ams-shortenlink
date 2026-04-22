@@ -26,7 +26,7 @@
           <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
           <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
         </svg>
-        Shorten &amp; Share Instantly
+        Link Shortener
       </p>
 
       <!-- Input + Button -->
@@ -77,7 +77,7 @@
       <!-- Result card -->
       <div v-if="showResult && shortenedUrl" class="mt-4 p-8 rounded-3xl bg-white/[0.05] border border-white/[0.15] backdrop-blur-xl transition-all duration-500 shadow-2xl">
         <p class="text-white/50 text-sm uppercase tracking-widest mb-4 font-semibold">
-          Your shortened link
+          Shortened URL
         </p>
         <div class="flex flex-col sm:flex-row items-start sm:items-center gap-6">
           <a

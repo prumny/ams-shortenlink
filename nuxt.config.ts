@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   app: {
     head: {
-      title: 'AMS Shortlink — Shorten & Share Instantly',
+      title: 'AMS Link Shortener — Shorten & Share Instantly',
       link: [
         { rel: 'icon', type: 'image/png', href: '/favicon.png' },
       ],
