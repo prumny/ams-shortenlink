@@ -204,7 +204,7 @@
       </div>
 
       <!-- Footer -->
-      <div class="text-center text-white/20 text-sm mt-16 font-medium flex flex-col gap-1">
+      <div class="text-center text-white/20 text-sm mt-32 font-medium flex flex-col gap-1">
         <p>Developed by Digital Department</p>
         <p>Copyright &copy; {{ new Date().getFullYear() }} Apsara Media Services Co., Ltd. (AMS)</p>
       </div>
